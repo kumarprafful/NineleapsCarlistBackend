@@ -27,7 +27,7 @@ SECRET_KEY = '%$$@btd2v4llkp)=vw-9*&n=x1p4moob3ofl4dsc&g6y3%2na%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['carlistprbck.herokuapp.com']
 
 
 # Application definition
